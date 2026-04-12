@@ -1,0 +1,50 @@
+h1 {
+    color: blueviolet;
+}
+
+nav a {
+    border: 1px solid black;
+    color: black;
+    padding: 3px 6px;
+    text-decoration: none;
+    margin-right: 5px;
+}
+
+a {
+    color: black;
+}
+
+header {
+    border-bottom: 2px solid black;
+}
+
+#para1 {
+    font-style: italic;
+}
+
+h2 {
+    color: teal;
+}
+
+#Headings {
+    color: red;
+}
+
+.special {
+    color: orange;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-style: double;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+* {
+    margin: 10pt;
+}
+
+#images {
+    text-align: center;
+}
